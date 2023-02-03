@@ -1,0 +1,219 @@
+{
+  "project_info": {
+    "project_number": "632520923164",
+    "firebase_url": "https://hooplataxi-e1f8e-default-rtdb.firebaseio.com",
+    "project_id": "hooplataxi-e1f8e",
+    "storage_bucket": "hooplataxi-e1f8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632520923164:android:ff6189fd950278ba2be7d9",
+        "android_client_info": {
+          "package_name": "com.hoopla.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632520923164-rkuj6e0p07tu79db4kviq3v2oo7rsro2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hoopla.driver",
+            "certificate_hash": "b24c5a892e679c60ff94880494a36c35d680ca08"
+          }
+        },
+        {
+          "client_id": "632520923164-vadnvu6b552sstcs9vo1tbcnljtm74k9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hoopla.driver",
+            "certificate_hash": "619de938744d41ada6195d13dfcf8cd259348467"
+          }
+        },
+        {
+          "client_id": "632520923164-13b0t3vplud98v9sa2b3unhvrrm8rtgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT0ZFM6xuXWBDdoWmZ4qi05XbEkwC5XHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632520923164-13b0t3vplud98v9sa2b3unhvrrm8rtgs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "632520923164-rks46gu104vl6hng3apgalk3g0gc51mf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hoopla-driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632520923164:android:d103a6cc21d220252be7d9",
+        "android_client_info": {
+          "package_name": "com.hoopla_taxi.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632520923164-13b0t3vplud98v9sa2b3unhvrrm8rtgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT0ZFM6xuXWBDdoWmZ4qi05XbEkwC5XHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632520923164-13b0t3vplud98v9sa2b3unhvrrm8rtgs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "632520923164-rks46gu104vl6hng3apgalk3g0gc51mf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hoopla-driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632520923164:android:b29bf954e0a929a42be7d9",
+        "android_client_info": {
+          "package_name": "com.hooplataxi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632520923164-0kdj4d2jp5ul11pfskpn9an45aptnu0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hooplataxi.app",
+            "certificate_hash": "619de938744d41ada6195d13dfcf8cd259348467"
+          }
+        },
+        {
+          "client_id": "632520923164-2ca4futnvol9kip0jrq24p6mvbnb3b31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hooplataxi.app",
+            "certificate_hash": "7f1c3e8cdb47c50a775dfd860ea8af3d92691de2"
+          }
+        },
+        {
+          "client_id": "632520923164-jr5d4ut5qvu099ef8hiambl9jn85l2kf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hooplataxi.app",
+            "certificate_hash": "5d4763895f9a7da34b2426e5871d9f1b133c4e91"
+          }
+        },
+        {
+          "client_id": "632520923164-v9jl3ipecrtn4s4qf2r4rhe5dh9ecred.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hooplataxi.app",
+            "certificate_hash": "287e26a1458ac4c10393985d9039393d3ffa5d90"
+          }
+        },
+        {
+          "client_id": "632520923164-13b0t3vplud98v9sa2b3unhvrrm8rtgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT0ZFM6xuXWBDdoWmZ4qi05XbEkwC5XHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632520923164-13b0t3vplud98v9sa2b3unhvrrm8rtgs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "632520923164-rks46gu104vl6hng3apgalk3g0gc51mf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hoopla-driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632520923164:android:85add030d5a0784b2be7d9",
+        "android_client_info": {
+          "package_name": "com.hooplataxi.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632520923164-6pjspugeo7mnb97q848kvqk2teamurdq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hooplataxi.driver",
+            "certificate_hash": "b24c5a892e679c60ff94880494a36c35d680ca08"
+          }
+        },
+        {
+          "client_id": "632520923164-s53vja8nmgi111mnca9vd8un9rp7ghea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hooplataxi.driver",
+            "certificate_hash": "619de938744d41ada6195d13dfcf8cd259348467"
+          }
+        },
+        {
+          "client_id": "632520923164-13b0t3vplud98v9sa2b3unhvrrm8rtgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT0ZFM6xuXWBDdoWmZ4qi05XbEkwC5XHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632520923164-13b0t3vplud98v9sa2b3unhvrrm8rtgs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "632520923164-rks46gu104vl6hng3apgalk3g0gc51mf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hoopla-driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
